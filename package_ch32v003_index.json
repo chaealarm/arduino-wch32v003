@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "chaealarm",
-      "maintainer": "Chae Haram",
+      "maintainer": "chaealarm",
       "websiteURL": "https://github.com/chaealarm/arduino-wch32v003",
       "email": "chaealarm@gmail.com",
       "help": {
@@ -15,7 +15,7 @@
           "version": "0.0.3",
           "category": "Contributed",
           "url": "https://github.com/chaealarm/arduino-wch32v003/releases/download/0.0.3/arduino-wch32v003-0.0.3.zip",
-          "archiveFileName": "arduino-wch32v003-0.0.3.zip",
+          "archiveFileName": "arduino-wch32v003.zip",
           "checksum": "SHA-256:484bce3fcd60f5901e3cb62b5f2758e26687a53b9d4179ce1672e72be4a11810",
           "size": "133317",
           "help": {
