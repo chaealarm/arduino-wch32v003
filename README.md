@@ -3,6 +3,7 @@
 This is a new Arduino Core for the CH32V003 series of microcontrollers.
 
 It is based on the work from [CNLohr/ch32v003fun](https://github.com/CNLohr/ch32v003fun).
+
 You can use CH32V003 as USB-Self-Programmable(like Arduino Uno, Leonardo...etc) when using [cnlohr/rv003usb](https://github.com/cnlohr/rv003usb) design and bootloader.
 
 
