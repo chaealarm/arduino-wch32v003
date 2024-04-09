@@ -2,18 +2,15 @@
 
 This is a new Arduino Core for the CH32V003 series of microcontrollers.
 
-This fork is modified minichlink for using serial-based programmers(ardulink...etc, windows only yet)
-
-Also can use USB Based programmer(WCH-LinkE, RV003USB...etc, Just don't select port or select any port. It don't care about port when using USB based Programmer.)
-
 It is based on the work from [CNLohr/ch32v003fun](https://github.com/CNLohr/ch32v003fun).
+You can use CH32V003 as USB-Self-Programmable(like Arduino Uno, Leonardo...etc) when using [cnlohr/rv003usb](https://github.com/cnlohr/rv003usb) design and bootloader.
 
 
 ## Overview
 CH32V003 series is based on QingKe RISC-V2A core design of industrial-grade general-purpose microcontroller, support 48MHz system main frequency, with wide voltage, 1-wire serial debug interface, low-power consumption, ultra-small package, etc. CH32V003 series built-in a group of DMA controller, a group of 10-bit ADC, a group of op-amp comparators, multiple timers and standard communication interfaces USART, I2C, SPI, etc.
 
 ## System Block Diagram
-<img src="https://github.com/openwch/ch32v003/raw/main/image/frame.jpg" alt="frame" style="zoom:50%;" />
+<img src="https://github.com/openwch/ch32v003/raw/main/image/frame.jpg" alt="frame" style="zoom:50%;" />오전 1:20 2024-04-10
 
 ### Features
 - QingKe 32-bit RISC-V2A processor, supporting 2 levels of interrupt nesting
