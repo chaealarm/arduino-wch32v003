@@ -2,6 +2,10 @@
 
 This is a new Arduino Core for the CH32V003 series of microcontrollers.
 
+This fork is modified minichlink for using serial-based programmers(ardulink...etc, windows only yet)
+
+Also can use USB Based programmer(WCH-LinkE, RV003USB...etc, Just don't select port or select any port. It don't care about port when using USB based Programmer.)
+
 It is based on the work from [CNLohr/ch32v003fun](https://github.com/CNLohr/ch32v003fun).
 
 
