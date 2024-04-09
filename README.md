@@ -11,7 +11,7 @@ You can use CH32V003 as USB-Self-Programmable(like Arduino Uno, Leonardo...etc) 
 CH32V003 series is based on QingKe RISC-V2A core design of industrial-grade general-purpose microcontroller, support 48MHz system main frequency, with wide voltage, 1-wire serial debug interface, low-power consumption, ultra-small package, etc. CH32V003 series built-in a group of DMA controller, a group of 10-bit ADC, a group of op-amp comparators, multiple timers and standard communication interfaces USART, I2C, SPI, etc.
 
 ## System Block Diagram
-<img src="https://github.com/openwch/ch32v003/raw/main/image/frame.jpg" alt="frame" style="zoom:50%;" />오전 1:20 2024-04-10
+<img src="https://github.com/openwch/ch32v003/raw/main/image/frame.jpg" alt="frame" style="zoom:50%;" />
 
 ### Features
 - QingKe 32-bit RISC-V2A processor, supporting 2 levels of interrupt nesting
