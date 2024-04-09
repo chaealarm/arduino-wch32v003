@@ -1,4 +1,4 @@
-# Arduino Core for CH32V003
+# Arduino Core for CH32V003(minichlink modified)
 
 This is a new Arduino Core for the CH32V003 series of microcontrollers.
 
