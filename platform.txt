@@ -110,5 +110,5 @@ recipe.output.save_file={build.project_name}.{build.variant}.bin
 tools.minichlink.upload.protocol=usb
 tools.minichlink.upload.params.verbose=
 tools.minichlink.upload.params.quiet=
-tools.minichlink.upload.pattern_args=-w "{build.path}/{build.project_name}.bin" flash -b
+tools.minichlink.upload.pattern_args=-w "{build.path}/{build.project_name}.bin" flash -b -c {serial.port}
 tools.minichlink.upload.pattern="{path}/{cmd}" {upload.pattern_args}
