@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "chaealarm",
-      "maintainer": "Chae Haram",
+      "maintainer": "chaealarm",
       "websiteURL": "https://github.com/chaealarm/arduino-wch32v003",
       "email": "chaealarm@gmail.com",
       "help": {
