@@ -35,7 +35,7 @@ CH32V003 series is based on QingKe RISC-V2A core design of industrial-grade gene
 
 Use the following board manager URL under Preferences &rarr; Additional Board Manager URLs to install the core:
 
-https://alexandermandera.github.io/arduino-wch32v003/package_ch32v003_index.json
+https://github.com/chaealarm/arduino-wch32v003/releases/download/Package_Json/package_ch32v003_index.json
 
 Install the "WCH Boards" platform inside the Board Manager.
 
