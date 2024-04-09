@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/chaealarm/arduino-wch32v003/releases/download/0.0.3/arduino-wch32v003-v0.0.3.zip",
           "archiveFileName": "arduino-wch32v003.zip",
-          "checksum": "SHA-256:f49293bfae52769c756736728ad12d84e3acf2e9eb9d5d5dca704479d4191e69",
-          "size": "137647",
+          "checksum": "SHA-256:2fec21fb7a802680ffbe8f4f66a0dff9126cdf77f6cb30a8f7b42e2633a49b8e",
+          "size": "133735",
           "help": {
             "online": "https://github.com/chaealarm/arduino-wch32v003"
           },
