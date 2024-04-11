@@ -54,6 +54,8 @@ are work-in-progress but examples from `ch32v003fun` can always be used inside t
 All major operating systems (Windows, Linux, macOS) for most CPU architectures (amd64, arm64, armhf)
 should be supported.
 
+(B003Fun, ardulink support only Windows amd64 yet.)
+
 The version of the Arduino Board Manager package will be updated after major additions or changes
 to the Core which will correspond to the `master` branch.
 Pre-release or untested changes are made inside the `develop` branch.
